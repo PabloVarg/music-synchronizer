@@ -1,0 +1,5 @@
+{
+    "*": {
+        "make": "bash ./synchronize.sh"
+    }
+}
