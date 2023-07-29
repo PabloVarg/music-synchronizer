@@ -1,0 +1,3 @@
+[submodule "better-adb-sync"]
+	path = better-adb-sync
+	url = https://github.com/jb2170/better-adb-sync.git
